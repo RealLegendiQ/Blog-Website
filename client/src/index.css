@@ -1,0 +1,141 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* About page css ... Starts here */
+#title{
+  background-color: #7C83FD;
+  color: white;
+  text-align: center;
+}
+body{
+  font-family: "Montserrat";
+}
+h1{
+  font-family: 'Montserrat';
+  font-weight: 900;
+  line-height: 1.5;
+  font-size : 3.5rem
+}
+h2{
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: 'Montserrat';
+  font-weight: 700;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+.heading{
+  font-family: 'Sacramento', cursive;
+  font-size: 500%;
+  font-weight: 1000;
+}
+
+.section-heading{
+  padding : 2%;
+}
+
+/* Buttons  */
+.download-btn{
+  margin: 5% 3% 5% 0;
+}
+
+/* Title img */
+#title{
+  padding: 10% 0;
+}
+.title-img{
+  width: 60%;
+  border-radius: 50%;
+}
+/* skills  */
+
+#skills{
+  background-color: white;
+  padding : 7% 15%;
+  text-align: center;
+
+}
+.feature-box {
+  padding : 0 5%;
+}
+.ele{
+  margin-bottom: 20px;
+  color: #7C83FD;
+}
+.ele:hover{
+  color :#7DEDFF;;
+}
+.f-text{
+  font-weight: 500;
+  color: gray;
+}
+
+/* Experience */
+#Experience {
+  background-color: #C6FFC1;
+  padding: 100px;
+  text-align: center;
+}
+.card-img{
+  width: 10rem;
+}
+
+.Experience-column {
+  padding: 3% 2%;
+}
+
+.price-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/*------------------*/
+#cta {
+  text-align: center;
+  background-color: #66BFBF;
+  padding: 7% 15%;
+  color: white;
+}
+
+
+#footer {
+  background-color: #000000;
+  text-align: center;
+  color: white;
+  padding: 7% 15%;
+  text-decoration: none;
+}
+
+.footer-link {
+ 
+  padding: 3%;
+  color: white;
+}
+.footer-para{
+  margin: 3%;
+  color: white;
+}
+.footer-link:hover{
+  color: turquoise;
+}
+
+/* About page css ... Ends here */
