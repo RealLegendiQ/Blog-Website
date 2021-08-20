@@ -1,7 +1,7 @@
 # Blog-Website
 The website is created using MERN stack and uses Auth0 for user authentication.
 
-In this website user can create, edit, delete and post his/her own blog. As for viewing blogs, user can also sort blogs based on category and username.
+In this website a user can create, edit, delete and post his/her own blog. As for viewing blogs, user can also sort blogs based on category and username.
 
 Here have a look : https://blog-website-np7.herokuapp.com
 
